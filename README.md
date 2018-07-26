@@ -29,6 +29,7 @@ The above PV OFF-Grid system has the advantage in a case of insufficient sun pow
 
 2. Hot water heating devices X 4pcs (two in the basement and one per 1st and 2nd floors) from commercially mass produced **ARISTON SHP ECO 100 V 1.8K** 
 		[link] http://www.ariston.com/sg/SHAPE_ECO_50-80-100
+		
 	**Without** any interventions on the original ARISTON's electronics, I've equipped each of the water heaters with additional 10K thermistor for reading the temperature of the water in real time using:
 		[link] http://www.electronicwings.com/nodemcu/thermistor-interfacing-with-nodemcu
 	Also the NodeMCU Arduino based ESP8266 controller is capable to switch ON and OFF the ARISTON water heater with emulating power ONOFF push button with a small DUAL IN LINE REED RELAY /1 normally open contact/ 
