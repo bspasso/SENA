@@ -21,6 +21,7 @@ This became the very first sub-system, based upon which I have elaborated anothe
 		[link] https://www.dpstele.com/snmp/what-does-oid-network-elements.php and a very useful tool: 
 		[SNMP OID/MIB Browser] http://www.ireasoning.com/downloadmibbrowserfree.php
 	d) AccuForce 12 - 200 AGM VLRA BATTERY X 4 /4 X 12V = 48V X 200 Ah = 9.6 KWh/
+	
 		[link] http://www.systems-sunlight.com/wp-content/uploads/2014/11/accuforce-12v-200ah.pdf
 
 The above PV OFF-Grid system has the advantage in a case of insufficient sun power to automatically switch in bypass mode for providing electrical energy directly from public Utility Grid /220V in EU/.
