@@ -12,9 +12,8 @@ This became the very first sub-system, based upon which I have elaborated anothe
 
 1. Photostatic OFF-Grid systems with the following components:
 	a) Two **strings** of 12 PV panels each: SHARP ND-RB270 = **24 panels** X 270 KWp = 6.48 KWp /2 MPP Trackers X 3 KWp each/
-		[link to SHARP ND-RB270] 
+[link to SHARP ND-RB270] https://www.sharp.co.uk/cps/rde/xchg/gb/hs.xsl/-/html/product-details-solar-modules-2189.htm?product=NDRB270
 		
-		https://www.sharp.co.uk/cps/rde/xchg/gb/hs.xsl/-/html/product-details-solar-modules-2189.htm?product=NDRB270
 	b) Conversol S2 Off-Grid Inverter - 5kVA, 48V, DUO MPPT Charger 
 		[link] https://voltaconsolar.com/conversol-5kva-duo-mppt-inverter-charger.html
 	c) WEB and SNMP Box, Modbus - Remote Monitoring for Hybrid Inverters
