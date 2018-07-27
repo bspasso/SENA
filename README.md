@@ -13,15 +13,13 @@ This became the very first sub-system, based upon which I have elaborated anothe
 1. Photostatic OFF-Grid systems with the following components:
 	a) Two **strings** of 12 PV panels each: SHARP ND-RB270 = **24 panels** X 270 KWp = 6.48 KWp /2 MPP Trackers X 3 KWp each/
 [link to SHARP ND-RB270] https://www.sharp.co.uk/cps/rde/xchg/gb/hs.xsl/-/html/product-details-solar-modules-2189.htm?product=NDRB270
-		
 	b) Conversol S2 Off-Grid Inverter - 5kVA, 48V, DUO MPPT Charger 
 		[link] https://voltaconsolar.com/conversol-5kva-duo-mppt-inverter-charger.html
 	c) WEB and SNMP Box, Modbus - Remote Monitoring for Hybrid Inverters
 		[link] https://voltaconsolar.com/solar-products/accessories/webox-modbus-remote-monitoring-hybrid-ongrid-inverters.html and the concept of SNMP based upon which I've elaborated server side extract of energy related data:
 		[link] https://www.dpstele.com/snmp/what-does-oid-network-elements.php and a very useful tool: 
 		[SNMP OID/MIB Browser] http://www.ireasoning.com/downloadmibbrowserfree.php
-	d) AccuForce 12 - 200 AGM VLRA BATTERY X 4 /4 X 12V = 48V X 200 Ah = 9.6 KWh/
-	
+	d) AccuForce 12 - 200 AGM VLRA BATTERY X 4 /4 X 12V = 48V X 200 Ah = 9.6 KWh/	
 		[link] http://www.systems-sunlight.com/wp-content/uploads/2014/11/accuforce-12v-200ah.pdf
 
 The above PV OFF-Grid system has the advantage in a case of insufficient sun power to automatically switch in bypass mode for providing electrical energy directly from public Utility Grid /220V in EU/.
