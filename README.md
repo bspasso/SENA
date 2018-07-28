@@ -8,6 +8,12 @@ Sun ENergy and Automation (SENA)
 
 * Setting HTTP headers appropriately can help to lock down and secure your web application. [read more...](https://github.com/helmetjs/helmet)
 
+**TEST**
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 **SENA** is a Project which started from 6KWp Photostatic System for household usage.
 
 ### Harvesting the Sun's Energy 
