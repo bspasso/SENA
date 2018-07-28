@@ -18,6 +18,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### Harvesting the Sun's Energy 
 
+<a href="./images/IMG_20180407_130121.jpg" target="_blank"><img src="./images/IMG_20180407_130121.jpg" 
+alt="MY IMAGE TEXT HERE" width="240" height="180" border="10" /></a>
+
 This became the very first sub-system, based upon which I have elaborated another sub-systems of the overall SENA Project as described below:
 
 1. Photostatic OFF-Grid systems with the following components:
