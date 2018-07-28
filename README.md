@@ -1,4 +1,4 @@
-# SENA /master/
+# SENA
 Solar ENergy and Automation (Internet of Things - IoT)
 
 Sun ENergy and Automation (SENA)
