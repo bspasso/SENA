@@ -4,7 +4,9 @@ Solar ENergy and Automation (Internet of Things - IoT)
 Sun ENergy and Automation (SENA)
 ================================
 
-[link] https://www.dropbox.com/s/xrgiy96et31nbw5/index.htm?dl=0
+[link]https://www.dropbox.com/s/xrgiy96et31nbw5/index.htm?dl=0
+
+* Setting HTTP headers appropriately can help to lock down and secure your web application. [read more...](https://github.com/helmetjs/helmet)
 
 **SENA** is a Project which started from 6KWp Photostatic System for household usage.
 
