@@ -54,7 +54,7 @@ alt="MY IMAGE TEXT HERE" width="240" height="180" border="10" /></a>
 		
 ### Monitoring and controlling components:
 
-[link](./pages/README2.md)
+[test link to a test page](./pages/README2.md)
 
 4. Monitoring UV Index, Visual Light and IR Light nearby photostatic strings.
 
