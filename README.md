@@ -54,6 +54,9 @@ alt="MY IMAGE TEXT HERE" width="240" height="180" border="10" /></a>
 		
 ### Monitoring and controlling components:
 
+<a href="./pages/readme2.md" target="_blank"><img src="./pages/readme2.md" 
+alt="ANOTHER MD PAGE HERE"/></a>
+
 4. Monitoring UV Index, Visual Light and IR Light nearby photostatic strings.
 
 5. Switching ON/OFF 220V Energy entry from Public Grid and bypassing PV Conversol module to directly supply Grid 220V over the nights.
