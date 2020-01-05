@@ -4,7 +4,9 @@ Solar ENergy and Automation (Internet of Things - IoT)
 Sun ENergy and Automation (SENA)
 ================================
 
-[link](https://www.dropbox.com/s/xrgiy96et31nbw5/index.htm?dl=0)
+[link111](https://www.dropbox.com/s/vqv9f4tq64pkadt/Comp_Space_2019_SENA.pdf)
+
+[link222](https://www.dropbox.com/s/xrgiy96et31nbw5/index.htm?dl=0)
 
 * Setting HTTP headers appropriately can help to lock down and secure your web application. [read more...](https://github.com/helmetjs/helmet)
 
@@ -91,3 +93,4 @@ MIT license rules apply
 ### How to contribute to the development of SENA
 
 ETHEREUM /ETH/ and BITCOIN /BTC/ addresses will be published soon.
+
