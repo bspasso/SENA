@@ -4,7 +4,7 @@ Solar ENergy and Automation (Internet of Things - IoT)
 Sun ENergy and Automation (SENA)
 ================================
 
-[link111](https://www.dropbox.com/s/vqv9f4tq64pkadt/Comp_Space_2019_SENA.pdf)
+[Open Source Offline Home Automation Systems](https://www.dropbox.com/s/vqv9f4tq64pkadt/Comp_Space_2019_SENA.pdf)
 
 [link222](https://www.dropbox.com/s/xrgiy96et31nbw5/index.htm?dl=0)
 
